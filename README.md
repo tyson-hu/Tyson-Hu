@@ -13,6 +13,12 @@
 
 ---
 
+### ⚡️ GitHub Acitivity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ### ⚡️ GitHub Stats
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=Mother-FKR&count_private=true&show_icons=true&bg_color=30,FA897B,FFDD94&title_color=FF6347&text_color=FFFFF0&icon_color=FFD700)](https://github.com/Mother-FKR)
