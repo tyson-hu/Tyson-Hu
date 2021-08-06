@@ -1,4 +1,4 @@
-### Hi there, I'm Tianzhe - as [Mother-FKR][website] 👋
+### Hi there, I'm Tyson - as [Mother-FKR][website] 👋
 
 [![Website](https://img.shields.io/website?label=Tianzhe.me&style=for-the-badge&url=https%3A%2F%2Ftianzhe.me)](https://tianzhe.me)
 
