@@ -3,9 +3,9 @@
 [![Website](https://img.shields.io/website?label=Tianzhe.me&style=for-the-badge&url=https%3A%2F%2Ftianzhe.me)](https://tianzhe.me)
 
 
-## I'm a Student, study in University at Buffalo
+## I'm a Student, studying at University at Buffalo
 
-- 🔭 I'm on the fourth year of college
+- 🔭 I'm in the fourth year of college
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -13,7 +13,7 @@
 
 ---
 
-### ⚡️ GitHub Acitivity
+### ⚡️ GitHub Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
