@@ -90,10 +90,6 @@ TypeScript               2 repos             █░░░░░░░░░░�
  Last Updated on 10/02/2024 03:39:27 UTC
 <!--END_SECTION:waka-->
 
-### ⚡️ GitHub Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ---
 
 ### ⚡️ GitHub Stats
