@@ -13,6 +13,12 @@
 
 ---
 
+### ⚡️ GitHub Stats
+![](https://raw.githubusercontent.com/Tyson-Hu/github-stats-card/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/Tyson-Hu/github-stats-card/master/generated/languages.svg)
+
+---
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -88,15 +94,6 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
  Last Updated on 10/02/2024 03:39:27 UTC
 <!--END_SECTION:waka-->
-
----
-
-### ⚡️ GitHub Stats
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=Tyson-Hu&count_private=true&show_icons=true&bg_color=30,FA897B,FFDD94&title_color=FF6347&text_color=FFFFF0&icon_color=FFD700)](https://github.com/Tyson-Hu)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tyson-Hu&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Tyson-Hu))
-
 
 
 [website]: https://github.com/Tyson-Hu
