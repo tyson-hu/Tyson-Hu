@@ -3,17 +3,16 @@
 [![Website](https://img.shields.io/website?label=Tianzhe.me&style=for-the-badge&url=https%3A%2F%2Ftianzhe.me)](https://tianzhe.me)
 
 
-## I'm a Student, studying at University at Buffalo
+## I'm a full-stack engineer
 
-- 🔭 I'm in the fourth year of college
+- 🔭 I finally graduate!!!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am a FC Barcelona Fans!⚽️
 
 ---
 
-### 📊 This week | spent my time on
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
