@@ -13,6 +13,10 @@
 
 ---
 
+### 📊 This week | spent my time on
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### ⚡️ GitHub Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
