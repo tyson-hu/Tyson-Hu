@@ -20,15 +20,13 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 644.2 kB Used in GitHub's Storage 
- > 
-> 🏆 76 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -63,16 +61,18 @@ Sunday                   163 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    39 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Edge                     39 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+netease-cloudmusic-api   35 mins             ██████████████████████░░░   89.05 % 
+alacritty                3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+mogan                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      39 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -92,7 +92,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tyson-Hu/Tyson-Hu/main/assets/bar_graph.png)
 
 
- Last Updated on 12/06/2024 18:36:12 UTC
+ Last Updated on 13/06/2024 18:36:27 UTC
 <!--END_SECTION:waka-->
 
 
