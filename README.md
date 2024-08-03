@@ -28,8 +28,6 @@
 
 > 📦 644.6 kB Used in GitHub's Storage 
  > 
-> 🏆 96 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 29 Public Repositories 
@@ -93,7 +91,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tyson-Hu/Tyson-Hu/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2024 18:36:58 UTC
+ Last Updated on 03/08/2024 18:35:51 UTC
 <!--END_SECTION:waka-->
 
 
