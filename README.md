@@ -28,6 +28,8 @@
 
 > 📦 646.9 kB Used in GitHub's Storage 
  > 
+> 🏆 124 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 30 Public Repositories 
@@ -61,16 +63,16 @@ Sunday                   187 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    8 hrs 29 mins       █████████████████████████   100.00 % 
+Other                    7 hrs 30 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Edge                     8 hrs 29 mins       █████████████████████████   100.00 % 
+Edge                     7 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-eazyreview-admin         8 hrs 29 mins       █████████████████████████   100.00 % 
+eazyreview-admin         7 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -90,7 +92,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tyson-Hu/Tyson-Hu/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2024 18:39:40 UTC
+ Last Updated on 03/10/2024 18:38:52 UTC
 <!--END_SECTION:waka-->
 
 
