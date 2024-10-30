@@ -20,15 +20,13 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 647.1 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -63,16 +61,18 @@ Sunday                   189 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     3 mins              ████████████████████░░░░░   78.26 % 
+Markdown                 0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Portfolio                4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -92,7 +92,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tyson-Hu/Tyson-Hu/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2024 18:39:47 UTC
+ Last Updated on 30/10/2024 18:39:32 UTC
 <!--END_SECTION:waka-->
 
 
