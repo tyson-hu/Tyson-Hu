@@ -63,21 +63,16 @@ Sunday                   197 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               1 hr 47 mins        ███████████████░░░░░░░░░░   58.46 % 
-JSON                     44 mins             ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
-JavaScript               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-GitIgnore file           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-ESLint File              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 4 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sneakerreview            2 hrs 59 mins       ████████████████████████░   97.45 % 
-my-app                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 4 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -97,7 +92,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tyson-Hu/Tyson-Hu/main/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2024 18:38:02 UTC
+ Last Updated on 25/11/2024 18:40:02 UTC
 <!--END_SECTION:waka-->
 
 
