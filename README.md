@@ -26,9 +26,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 647.5 kB Used in GitHub's Storage 
- > 
-> 🏆 139 Contributions in the Year 2024
+> 📦 647.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -100,7 +98,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tyson-Hu/Tyson-Hu/main/assets/bar_graph.png)
 
 
- Last Updated on 30/12/2024 18:38:55 UTC
+ Last Updated on 31/12/2024 18:38:21 UTC
 <!--END_SECTION:waka-->
 
 
