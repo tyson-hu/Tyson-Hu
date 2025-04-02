@@ -20,13 +20,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-331%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 647.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 2 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -61,17 +63,21 @@ Sunday                   214 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               2 hrs 48 mins       █████████████████████████   100.00 % 
+TypeScript               2 hrs 48 mins       ████████████████████████░   97.04 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 48 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            2 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sneakerreview            2 hrs 18 mins       █████████████████████░░░░   82.11 % 
-sneakerreview_archive    30 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+sneakerreview            2 hrs 18 mins       ████████████████████░░░░░   79.67 % 
+sneakerreview_archive    30 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Firebase Admin SDK       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      2 hrs 48 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -91,7 +97,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tyson-Hu/Tyson-Hu/main/assets/bar_graph.png)
 
 
- Last Updated on 01/04/2025 18:40:52 UTC
+ Last Updated on 02/04/2025 18:40:26 UTC
 <!--END_SECTION:waka-->
 
 
