@@ -28,8 +28,6 @@
 
 > 📦 647.6 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 31 Public Repositories 
@@ -63,19 +61,16 @@ Sunday                   214 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               3 hrs 3 mins        █████████████████████████   99.90 % 
-Smalltalk                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 3 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sneakerreview            3 hrs 3 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 3 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -95,7 +90,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tyson-Hu/Tyson-Hu/main/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2025 18:38:24 UTC
+ Last Updated on 13/04/2025 18:38:41 UTC
 <!--END_SECTION:waka-->
 
 
