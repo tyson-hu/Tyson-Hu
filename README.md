@@ -20,13 +20,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-362%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-362%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 647.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 2 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -61,18 +63,18 @@ Sunday                   214 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               4 hrs 46 mins       ███████████████████████░░   92.89 % 
-JSON                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+TypeScript               5 hrs 28 mins       ███████████████████████░░   93.51 % 
+JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 8 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            5 hrs 51 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sneakerreview            4 hrs 55 mins       ████████████████████████░   95.69 % 
-sneakerreview_archive    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+sneakerreview            5 hrs 38 mins       ████████████████████████░   96.22 % 
+sneakerreview_archive    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 
 💻 Operating System: 
-Mac                      5 hrs 8 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -92,7 +94,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tyson-Hu/Tyson-Hu/main/assets/bar_graph.png)
 
 
- Last Updated on 13/05/2025 18:40:59 UTC
+ Last Updated on 14/05/2025 18:40:41 UTC
 <!--END_SECTION:waka-->
 
 
