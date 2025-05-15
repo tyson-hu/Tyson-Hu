@@ -20,7 +20,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-362%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-363%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -63,18 +63,18 @@ Sunday                   214 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               5 hrs 28 mins       ███████████████████████░░   93.51 % 
-JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+TypeScript               6 hrs 32 mins       ███████████████████████░░   92.09 % 
+JSON                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 51 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            7 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sneakerreview            5 hrs 38 mins       ████████████████████████░   96.22 % 
-sneakerreview_archive    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+sneakerreview            6 hrs 52 mins       ████████████████████████░   96.88 % 
+sneakerreview_archive    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
 💻 Operating System: 
-Mac                      5 hrs 51 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -94,7 +94,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tyson-Hu/Tyson-Hu/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2025 18:40:41 UTC
+ Last Updated on 15/05/2025 18:41:34 UTC
 <!--END_SECTION:waka-->
 
 
