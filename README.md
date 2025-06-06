@@ -28,8 +28,6 @@
 
 > 📦 647.7 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 31 Public Repositories 
@@ -92,7 +90,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tyson-Hu/Tyson-Hu/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2025 00:37:22 UTC
+ Last Updated on 06/06/2025 18:41:45 UTC
 <!--END_SECTION:waka-->
 
 
