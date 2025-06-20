@@ -20,15 +20,13 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 647.7 kB Used in GitHub's Storage 
- > 
-> 🏆 2 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -63,17 +61,18 @@ Sunday                   214 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               26 mins             █████████████████████████   98.94 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+TypeScript               35 mins             ██████████████████████░░░   86.66 % 
+JSON                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🔥 Editors: 
-IntelliJ IDEA            27 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            40 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sneakerreview            27 mins             █████████████████████████   100.00 % 
+sneakerreview            40 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      27 mins             █████████████████████████   100.00 % 
+Mac                      40 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -93,7 +92,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tyson-Hu/Tyson-Hu/main/assets/bar_graph.png)
 
 
- Last Updated on 19/06/2025 18:41:51 UTC
+ Last Updated on 20/06/2025 18:42:17 UTC
 <!--END_SECTION:waka-->
 
 
