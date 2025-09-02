@@ -20,7 +20,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-377%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-377%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -61,18 +61,16 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Go                       0 secs              ██████████████████████░░░   88.29 % 
-Markdown                 0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Other                    2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-GoLand                   0 secs              █████████████████████████   100.00 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CSE486-PA3               0 secs              █████████████░░░░░░░░░░░░   51.13 % 
-GoLandWorkspace          0 secs              ████████████░░░░░░░░░░░░░   48.87 % 
+Unknown Project          2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -92,7 +90,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tyson-hu/tyson-hu/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2025 18:40:22 UTC
+ Last Updated on 02/09/2025 18:40:23 UTC
 <!--END_SECTION:waka-->
 
 
