@@ -20,15 +20,13 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-377%20hrs%2052%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 647.8 kB Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2025
+> 🏆 10 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -36,45 +34,6 @@
  > 
 > 🔑 34 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                356 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-🌆 Daytime                909 commits         ███████████░░░░░░░░░░░░░░   42.04 % 
-🌃 Evening                587 commits         ███████░░░░░░░░░░░░░░░░░░   27.15 % 
-🌙 Night                  310 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   424 commits         █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-Tuesday                  348 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Wednesday                296 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Thursday                 345 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Friday                   309 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Saturday                 215 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-Sunday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Chicago
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C** 
 
 ```text
@@ -92,7 +51,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tyson-hu/tyson-hu/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2025 18:40:47 UTC
+ Last Updated on 20/09/2025 18:38:01 UTC
 <!--END_SECTION:waka-->
 
 
