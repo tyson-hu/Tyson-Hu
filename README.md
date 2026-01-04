@@ -20,6 +20,8 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2048%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -34,6 +36,45 @@
  > 
 > 🔑 34 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                387 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+🌆 Daytime                1004 commits        ███████████░░░░░░░░░░░░░░   42.38 % 
+🌃 Evening                668 commits         ███████░░░░░░░░░░░░░░░░░░   28.20 % 
+🌙 Night                  310 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   496 commits         █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+Tuesday                  374 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Wednesday                305 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Thursday                 351 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Friday                   335 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Saturday                 247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Sunday                   261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Chicago
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C** 
 
 ```text
@@ -51,7 +92,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tyson-hu/tyson-hu/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 18:43:09 UTC
+ Last Updated on 04/01/2026 18:43:45 UTC
 <!--END_SECTION:waka-->
 
 
