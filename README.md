@@ -20,15 +20,13 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2047%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 648.9 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 2 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -36,45 +34,6 @@
  > 
 > 🔑 34 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                387 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-🌆 Daytime                1004 commits        ███████████░░░░░░░░░░░░░░   42.38 % 
-🌃 Evening                668 commits         ███████░░░░░░░░░░░░░░░░░░   28.20 % 
-🌙 Night                  310 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   496 commits         █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-Tuesday                  374 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Wednesday                305 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Thursday                 351 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-Friday                   335 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Saturday                 247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Sunday                   261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Chicago
-
-💬 Programming Languages: 
-Other                    28 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Edge                     28 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-sneakerreview            28 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  28 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in C** 
 
 ```text
@@ -92,7 +51,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tyson-hu/tyson-hu/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2026 19:19:03 UTC
+ Last Updated on 28/05/2026 19:25:29 UTC
 <!--END_SECTION:waka-->
 
 
