@@ -63,17 +63,16 @@ Sunday                   261 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JSON                     3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sneakerreview_archive    2 mins              ███████████████████░░░░░░   74.22 % 
-Unknown Project          0 secs              ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -93,7 +92,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tyson-hu/tyson-hu/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2026 18:57:04 UTC
+ Last Updated on 14/06/2026 18:56:44 UTC
 <!--END_SECTION:waka-->
 
 
