@@ -20,7 +20,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-381%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-381%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
@@ -63,16 +63,24 @@ Sunday                   261 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 9 mins              ██████████░░░░░░░░░░░░░░░   39.26 % 
+TypeScript               8 mins              █████████░░░░░░░░░░░░░░░░   34.85 % 
+JSON                     6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   13 mins             ██████████████░░░░░░░░░░░   55.22 % 
+VS Code                  11 mins             ███████████░░░░░░░░░░░░░░   44.78 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+eazy-review              13 mins             ██████████████░░░░░░░░░░░   55.14 % 
+Unknown Project          8 mins              ████████░░░░░░░░░░░░░░░░░   32.59 % 
+GoLandWorkspace          2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+supabase                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      24 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -92,7 +100,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tyson-hu/tyson-hu/main/assets/bar_graph.png)
 
 
- Last Updated on 21/06/2026 19:02:21 UTC
+ Last Updated on 22/06/2026 19:42:51 UTC
 <!--END_SECTION:waka-->
 
 
