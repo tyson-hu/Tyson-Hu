@@ -22,7 +22,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-381%20hrs%2030%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -100,7 +100,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tyson-hu/tyson-hu/main/assets/bar_graph.png)
 
 
- Last Updated on 24/06/2026 19:06:08 UTC
+ Last Updated on 25/06/2026 19:14:10 UTC
 <!--END_SECTION:waka-->
 
 
