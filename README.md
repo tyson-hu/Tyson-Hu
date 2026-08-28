@@ -1,23 +1,71 @@
-### Hi there, I'm Tyson - as [Tyson-Hu][website] 👋
+# Tianzhe "Tyson" Hu
 
-[![Website](https://img.shields.io/website?label=Tianzhe.me&style=for-the-badge&url=https%3A%2F%2Ftianzhe.me)](https://tianzhe.me)
+**Software Engineer — Backend · Full-Stack · Developer Tooling**
 
+I build reliable software across application code, data boundaries, and delivery workflows. My work emphasizes explicit ownership, recoverable failure states, secure authorization, and layered verification—so another engineer can inspect the implementation, tests, and decisions behind each claim.
 
-## I'm a full-stack engineer
+[Portfolio](https://tianzhe.me) · [Eazy Review case study](https://tianzhe.me/projects/eazy-review) · [LinkedIn](https://www.linkedin.com/in/TianzheHu) · [GitHub repositories](https://github.com/Tyson-Hu?tab=repositories)
 
-- 🔭 I finally graduate!!!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I am a FC Barcelona Fans!⚽️
+## Selected Engineering Work
 
----
+### Eazy Review
 
-### ⚡️ GitHub Stats
-![](https://raw.githubusercontent.com/Tyson-Hu/github-stats-card/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/Tyson-Hu/github-stats-card/master/generated/languages.svg)
+Mobile product-review system built around owner-scoped data, PostgreSQL authorization boundaries, server-derived scores, and explicit failure recovery.
 
----
+**Stack:** React Native · Expo · TypeScript · Supabase/PostgreSQL · TanStack Query
+
+- Owner-scoped row-level security and explicit least-privilege grants keep personal ratings and private notes behind the data boundary; PostgreSQL derives personal and community scores.
+- Focused frontend, database, authorization, and concurrency checks are paired with accepted physical-device offline, reconnect, and password-recovery evidence.
+
+[Repository](https://github.com/Tyson-Hu/Eazy-Review) · [Engineering case study](https://tianzhe.me/projects/eazy-review) · [Database and authorization evidence](https://github.com/Tyson-Hu/Eazy-Review/blob/master/docs/evidence/task-11-12-database-acceptance/RESULT.md)
+
+### Networking Study Platform
+
+Deployed browser-based networking study platform with 404 structured questions, flexible practice formats, and randomized timed tests.
+
+**Stack:** Next.js · TypeScript · Cloudflare Pages
+
+- Two versioned question banks and four answer formats power immediate-feedback Practice and randomized 50-question Test modes.
+- A two-hour timer and study progress persist locally in the browser; the static export is validated in CI and deployed on Cloudflare Pages.
+
+[Live site](https://study.tianzhe.me) · [Repository](https://github.com/Tyson-Hu/study-website)
+
+### OpenCore for Razer Blade 15
+
+Multi-release OpenCore configuration for the Razer Blade 15 with ACPI and kext compatibility work, hardware troubleshooting, and detailed installation guidance.
+
+**Systems:** OpenCore · ACPI · Kexts · macOS
+
+- Release-specific configurations and changelog documentation span macOS Catalina through Sonoma.
+- Hardware guidance covers BIOS and ACPI changes, sleep, networking, audio, USB mapping, and recovery troubleshooting; public reuse and issue activity provide inspectable maintenance evidence.
+
+[Repository](https://github.com/Tyson-Hu/RazerBlade15-Base-Model-Hackintosh_macOS_Sonoma)
+
+### Brain-Computer Interface Signal Processing Board
+
+Team-based University at Buffalo senior capstone combining embedded software and hardware integration for a biosignal-acquisition board.
+
+**Stack:** C++ · Arduino · SPI · ADS119X · PCB
+
+- The repository includes register-level ADS119X configuration, SPI transfer, data-ready sampling, channel acquisition, and serial streaming used to inspect biosignal data.
+- The implementation report, schematics, user manual, and team roster preserve the group-project context; adapted ADS119X driver work is explicitly credited upstream.
+
+[Repository and capstone documentation](https://github.com/Tyson-Hu/Brain-Computer-Interface_Project)
+
+## Engineering Focus
+
+- **Languages:** TypeScript · JavaScript · SQL · C++
+- **Application:** React Native · Expo · React · Next.js · Node.js
+- **Data / infrastructure:** PostgreSQL · Supabase · Git · Docker · CI/CD · Cloudflare
+
+## Background
+
+- **Independent Engineering Portfolio — 2023–Present:** Product, platform, and systems projects with inspectable implementation evidence.
+- **U.S. Army Reserve — Information Technology Specialist (25B), 2026–Present:** Cisco networking, secure configuration, technical troubleshooting, and procedure-driven IT work.
+- **Education:** B.S. Computer Engineering, University at Buffalo, 2019–2023.
+
+<details>
+<summary>Optional GitHub activity metrics</summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-321%20hrs%2032%20mins-blue?style=flat)
@@ -103,5 +151,4 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
  Last Updated on 28/08/2026 02:18:23 UTC
 <!--END_SECTION:waka-->
 
-
-[website]: https://github.com/Tyson-Hu
+</details>
